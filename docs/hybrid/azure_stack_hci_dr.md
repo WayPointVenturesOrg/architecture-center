@@ -16,7 +16,7 @@ This reference architecture illustrates how to enhance resiliency of Azure Stack
 
 ![Actve-active and active-passive Azure Stack HCI stretched cluster][architectural-diagram]
 
-*Download a [Visio file][architectual-diagram-visio-source] of this architecture.*
+*Download a [Visio file][architectural-diagram-visio-source] of this architecture.*
 
 Typical uses for this architecture include:
 
